@@ -1,2 +1,2 @@
 # WebProiect
-Little buggy website
+Little buggy website for school
